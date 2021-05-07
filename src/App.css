@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+.light {
+  background: white;
+  color: black;
+}
+
+.dark {
+  background: black;
+  color: white;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
